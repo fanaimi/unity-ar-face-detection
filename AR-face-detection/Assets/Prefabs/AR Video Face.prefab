@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7889787239463010549}
   - component: {fileID: 7889787239463010548}
   m_Layer: 0
-  m_Name: AR Default Face
+  m_Name: AR Video Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
